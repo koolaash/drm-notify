@@ -121,6 +121,7 @@ function Notify(text, notifyType, duration, subTitle, notifyPosition, notifyStyl
 end
 ```
 
+### 🟢 OX_LIB
 ```
 ox_lib/resource/interface/client/notify.lua
 ```
