@@ -1,6 +1,6 @@
 # 🔔 drm-notify [QB/QBOX/ESX Notification System]
 
-A professional, easy-to-use, and highly customizable notification resource for FiveM, supporting both QBCore and ESX frameworks.
+A professional, easy-to-use, and highly customizable notification resource for FiveM, supporting QBCore, Qbx_Core and ESX frameworks.
 
 **💬 Support Discord**: [Dream Scripting](https://discord.gg/nkMTBARzz4)  
 
