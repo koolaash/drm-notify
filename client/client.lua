@@ -66,3 +66,8 @@ RegisterNUICallback("nui-ready", function()
 end)
 
 exports("notify", notify)
+
+
+RegisterNetEvent('drm-notify:client:sendNotify', function(text, textType, time)
+    notify(text, textType, time)
+end)

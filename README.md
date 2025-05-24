@@ -20,6 +20,16 @@ A professional, easy-to-use, and highly customizable notification resource for F
 ensure drm-notify
 ```
 
+## Server Side Trigger
+```lua
+TriggerClientEvent('drm-notify:client:sendNotify', src, text, type, length)
+```
+
+## Client Side Trigger
+```lua
+exports['drm-notify']:notify(text, texttype, length)
+```
+
 ---
 
 ## ⚙️ Framework Setup
