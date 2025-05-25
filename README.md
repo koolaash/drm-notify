@@ -163,7 +163,7 @@ end
 
 - Replace it with
 ```lua
-function Notify(text, notifyType, duration, subTitle, notifyPosition, notifyStyle, notifyIcon, notifyIconColor)
+function Notify(data)
     length = data.duration or 5000
     local texttype = data.type or 'info'
     title = data.title or ""
